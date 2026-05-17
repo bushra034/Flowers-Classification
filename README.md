@@ -31,6 +31,7 @@ The CNN architecture consists of:
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ## Future Improvements
 Ideas to improve accuracy or dataset.
