@@ -27,11 +27,10 @@ The CNN architecture consists of:
 ## Results
 
 
-## How to Run
-Installation + execution steps.
-```python
-model.fit(train_gen, epochs=20)
-```
+## Run Prediction  
+```bash
+pip install -r requirements.txt
+python main.py
 
 ## Future Improvements
 Ideas to improve accuracy or dataset.
