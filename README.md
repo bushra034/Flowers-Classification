@@ -5,11 +5,11 @@ Validation Accuracy: 67.21%
 ## Dataset
 The used dataset can be found in Kaggle: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition  
 It contains:  
-**Tulip:** 984 images  
-**Dandelion:** 1052 images  
-**Sunflower:** 733 images  
-**Rose:** 784 images  
-**Daisy:** 764 images  
+**- Tulip:** 984 images  
+**- Dandelion:** 1052 images  
+**- Sunflower:** 733 images  
+**- Rose:** 784 images  
+**- Daisy:** 764 images  
 <img width="650" height="120" alt="image" src="https://github.com/user-attachments/assets/3c87583e-8651-491b-9bfa-7499d7ae96df" />
 
 ## Preprocessing
