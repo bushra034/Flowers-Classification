@@ -15,8 +15,8 @@ It contains:
 ## Preprocessing
 Images were resized to 128×128×3 and preprocessed using ImageDataGenerator with data augmentation techniques such as rotation, shifting, zooming, and horizontal flipping to improve model generalization.  
 The dataset was automatically split into:  
-**Training data:** 3457 images  
-**Validation data:** 860 images  
+- **Training data:** 3457 images  
+- **Validation data:** 860 images  
 
 ## Model Architecture
 The CNN architecture consists of:  
@@ -34,4 +34,7 @@ python main.py
 ```
 
 ## Future Improvements
-Ideas to improve accuracy or dataset.
+- Use transfer learning (VGG16/ResNet) to improve accuracy  
+- Increase dataset size and balance classes  
+- Build a simple web app for image prediction  
+- Apply advanced data augmentation techniques  
