@@ -12,8 +12,8 @@ It contains:
 - **Daisy:** 764 images  
 <img width="650" height="120" alt="image" src="https://github.com/user-attachments/assets/3c87583e-8651-491b-9bfa-7499d7ae96df" />
 
-### Classes Distribution
-<img width="559" height="454" alt="image" src="https://github.com/user-attachments/assets/41691f8b-3d15-4585-ab52-a9579d1c40a4" />
+- **Classes Distribution:**
+<img width="360" height="250" alt="image" src="https://github.com/user-attachments/assets/41691f8b-3d15-4585-ab52-a9579d1c40a4" />
 
 
 ## Preprocessing
