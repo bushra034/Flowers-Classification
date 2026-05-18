@@ -32,8 +32,9 @@ The CNN architecture consists of:
 ## Results
   **Actual VS Predicted:**  
   <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/348e083e-3c36-45e3-8ecd-c3efa450f631" />
+  
   **Training VS Validation Loss:**  
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/74221724-aa23-4a12-9e0a-4b3cd7933b21" />
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/74221724-aa23-4a12-9e0a-4b3cd7933b21" />
 
 
 ## Run Prediction  
