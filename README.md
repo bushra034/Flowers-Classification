@@ -12,8 +12,8 @@ It contains:
 - **Daisy:** 764 images  
 <img width="650" height="120" alt="image" src="https://github.com/user-attachments/assets/3c87583e-8651-491b-9bfa-7499d7ae96df" />
 
-  **Classes Distribution:**
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f777804b-7949-43af-bcb0-533798436d1d" />
+  **Classes Distribution:**  
+  <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f777804b-7949-43af-bcb0-533798436d1d" />
 
 
 
@@ -30,7 +30,7 @@ The CNN architecture consists of:
 - Softmax output layer for 5-class classification  
 
 ## Results
-  **Actual VS Predicted:**
+  **Actual VS Predicted:**  
   <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/348e083e-3c36-45e3-8ecd-c3efa450f631" />
 
 
